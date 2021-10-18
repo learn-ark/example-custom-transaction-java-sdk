@@ -14,5 +14,5 @@ repositories {
 dependencies {
     testCompile group: 'junit', name: 'junit', version: '4.13'
     implementation 'org.arkecosystem:crypto:1.2.9'
-    implementation 'org.arkecosystem:client:1.2.9'
+    implementation 'org.arkecosystem:client:2.0.0'
 }
